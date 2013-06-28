@@ -11,7 +11,9 @@
 
 ## API
 
-
+    var w2c = require("window2canvas");
+    var cavansXY = w2c(canvasElement,clientX,clientY);
+    console.log(cavansXY.x , cavansXY.y);
 
 ## License
 
