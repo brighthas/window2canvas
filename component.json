@@ -1,0 +1,14 @@
+{
+  "name": "window2canvas",
+  "repo": "brighthas/window2canvas",
+  "description": "window mouse position transform to canvas position.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
